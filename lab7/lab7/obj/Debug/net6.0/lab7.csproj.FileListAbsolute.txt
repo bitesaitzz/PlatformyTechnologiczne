@@ -1,0 +1,15 @@
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab7/lab7/bin/Debug/net6.0/lab7
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab7/lab7/bin/Debug/net6.0/lab7.deps.json
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab7/lab7/bin/Debug/net6.0/lab7.runtimeconfig.json
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab7/lab7/bin/Debug/net6.0/lab7.dll
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab7/lab7/bin/Debug/net6.0/lab7.pdb
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab7/lab7/obj/Debug/net6.0/lab7.csproj.AssemblyReference.cache
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab7/lab7/obj/Debug/net6.0/lab7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab7/lab7/obj/Debug/net6.0/lab7.AssemblyInfoInputs.cache
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab7/lab7/obj/Debug/net6.0/lab7.AssemblyInfo.cs
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab7/lab7/obj/Debug/net6.0/lab7.csproj.CoreCompileInputs.cache
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab7/lab7/obj/Debug/net6.0/lab7.dll
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab7/lab7/obj/Debug/net6.0/refint/lab7.dll
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab7/lab7/obj/Debug/net6.0/lab7.pdb
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab7/lab7/obj/Debug/net6.0/lab7.genruntimeconfig.cache
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab7/lab7/obj/Debug/net6.0/ref/lab7.dll
