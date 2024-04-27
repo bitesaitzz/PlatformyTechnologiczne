@@ -1,0 +1,15 @@
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab9/lab3/bin/Debug/net6.0/lab3
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab9/lab3/bin/Debug/net6.0/lab3.deps.json
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab9/lab3/bin/Debug/net6.0/lab3.runtimeconfig.json
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab9/lab3/bin/Debug/net6.0/lab3.dll
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab9/lab3/bin/Debug/net6.0/lab3.pdb
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab9/lab3/obj/Debug/net6.0/lab3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab9/lab3/obj/Debug/net6.0/lab3.AssemblyInfoInputs.cache
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab9/lab3/obj/Debug/net6.0/lab3.AssemblyInfo.cs
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab9/lab3/obj/Debug/net6.0/lab3.csproj.CoreCompileInputs.cache
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab9/lab3/obj/Debug/net6.0/lab3.sourcelink.json
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab9/lab3/obj/Debug/net6.0/lab3.dll
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab9/lab3/obj/Debug/net6.0/refint/lab3.dll
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab9/lab3/obj/Debug/net6.0/lab3.pdb
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab9/lab3/obj/Debug/net6.0/lab3.genruntimeconfig.cache
+/Users/bitesaitzzz/Desktop/all_codes/github/PlatformyTechnologiczne/lab9/lab3/obj/Debug/net6.0/ref/lab3.dll
