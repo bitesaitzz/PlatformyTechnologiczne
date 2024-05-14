@@ -54,6 +54,7 @@ public class Program
         TextWriter writer = new StreamWriter("CarsCollection.xml");
         serializer.Serialize(writer, cars);
         writer.Close();
+        
         FileStream fileStream = new FileStream("CarsCollection.xml", FileMode.Open);
         List<Car> result = (List<Car>) serializer.Deserialize(fileStream);
          foreach (var item in result)

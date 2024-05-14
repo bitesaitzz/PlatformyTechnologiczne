@@ -1,0 +1,57 @@
+{
+  "format": 1,
+  "restore": {
+    "\\\\Mac\\iCloud\\Lab 10\\Lab 10\\Lab 10.csproj": {}
+  },
+  "projects": {
+    "\\\\Mac\\iCloud\\Lab 10\\Lab 10\\Lab 10.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "\\\\Mac\\iCloud\\Lab 10\\Lab 10\\Lab 10.csproj",
+        "projectName": "Lab 10",
+        "projectPath": "\\\\Mac\\iCloud\\Lab 10\\Lab 10\\Lab 10.csproj",
+        "packagesPath": "C:\\Users\\bitesaitzzz\\.nuget\\packages\\",
+        "outputPath": "\\\\Mac\\iCloud\\Lab 10\\Lab 10\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\bitesaitzzz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net481"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net481": {
+            "targetAlias": "net481",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net481": {
+          "targetAlias": "net481",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "win7-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

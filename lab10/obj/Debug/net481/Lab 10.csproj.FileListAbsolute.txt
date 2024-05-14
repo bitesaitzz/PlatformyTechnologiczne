@@ -1,0 +1,33 @@
+C:\Users\greedann\Desktop\github\Platformy-Technologiczne\Lab 10\Lab 10\bin\Debug\net481\Lab 10.exe.config
+C:\Users\greedann\Desktop\github\Platformy-Technologiczne\Lab 10\Lab 10\bin\Debug\net481\Lab 10.exe
+C:\Users\greedann\Desktop\github\Platformy-Technologiczne\Lab 10\Lab 10\bin\Debug\net481\Lab 10.pdb
+C:\Users\greedann\Desktop\github\Platformy-Technologiczne\Lab 10\Lab 10\obj\Debug\net481\Lab 10.csproj.AssemblyReference.cache
+C:\Users\greedann\Desktop\github\Platformy-Technologiczne\Lab 10\Lab 10\obj\Debug\net481\MainWindow.g.cs
+C:\Users\greedann\Desktop\github\Platformy-Technologiczne\Lab 10\Lab 10\obj\Debug\net481\App.g.cs
+C:\Users\greedann\Desktop\github\Platformy-Technologiczne\Lab 10\Lab 10\obj\Debug\net481\Lab 10_MarkupCompile.cache
+C:\Users\greedann\Desktop\github\Platformy-Technologiczne\Lab 10\Lab 10\obj\Debug\net481\Lab 10_MarkupCompile.lref
+C:\Users\greedann\Desktop\github\Platformy-Technologiczne\Lab 10\Lab 10\obj\Debug\net481\MainWindow.baml
+C:\Users\greedann\Desktop\github\Platformy-Technologiczne\Lab 10\Lab 10\obj\Debug\net481\Lab 10.g.resources
+C:\Users\greedann\Desktop\github\Platformy-Technologiczne\Lab 10\Lab 10\obj\Debug\net481\Lab 10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\greedann\Desktop\github\Platformy-Technologiczne\Lab 10\Lab 10\obj\Debug\net481\Lab 10.AssemblyInfoInputs.cache
+C:\Users\greedann\Desktop\github\Platformy-Technologiczne\Lab 10\Lab 10\obj\Debug\net481\Lab 10.AssemblyInfo.cs
+C:\Users\greedann\Desktop\github\Platformy-Technologiczne\Lab 10\Lab 10\obj\Debug\net481\Lab 10.csproj.CoreCompileInputs.cache
+C:\Users\greedann\Desktop\github\Platformy-Technologiczne\Lab 10\Lab 10\obj\Debug\net481\Lab 10.sourcelink.json
+C:\Users\greedann\Desktop\github\Platformy-Technologiczne\Lab 10\Lab 10\obj\Debug\net481\Lab 10.exe
+C:\Users\greedann\Desktop\github\Platformy-Technologiczne\Lab 10\Lab 10\obj\Debug\net481\Lab 10.pdb
+\\Mac\iCloud\Lab 10\Lab 10\bin\Debug\net481\Lab 10.exe.config
+\\Mac\iCloud\Lab 10\Lab 10\bin\Debug\net481\Lab 10.exe
+\\Mac\iCloud\Lab 10\Lab 10\bin\Debug\net481\Lab 10.pdb
+\\Mac\iCloud\Lab 10\Lab 10\obj\Debug\net481\Lab 10.csproj.AssemblyReference.cache
+\\Mac\iCloud\Lab 10\Lab 10\obj\Debug\net481\MainWindow.g.cs
+\\Mac\iCloud\Lab 10\Lab 10\obj\Debug\net481\App.g.cs
+\\Mac\iCloud\Lab 10\Lab 10\obj\Debug\net481\Lab 10_MarkupCompile.cache
+\\Mac\iCloud\Lab 10\Lab 10\obj\Debug\net481\Lab 10_MarkupCompile.lref
+\\Mac\iCloud\Lab 10\Lab 10\obj\Debug\net481\MainWindow.baml
+\\Mac\iCloud\Lab 10\Lab 10\obj\Debug\net481\Lab 10.g.resources
+\\Mac\iCloud\Lab 10\Lab 10\obj\Debug\net481\Lab 10.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\iCloud\Lab 10\Lab 10\obj\Debug\net481\Lab 10.AssemblyInfoInputs.cache
+\\Mac\iCloud\Lab 10\Lab 10\obj\Debug\net481\Lab 10.AssemblyInfo.cs
+\\Mac\iCloud\Lab 10\Lab 10\obj\Debug\net481\Lab 10.csproj.CoreCompileInputs.cache
+\\Mac\iCloud\Lab 10\Lab 10\obj\Debug\net481\Lab 10.exe
+\\Mac\iCloud\Lab 10\Lab 10\obj\Debug\net481\Lab 10.pdb
