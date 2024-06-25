@@ -1,0 +1,54 @@
+﻿<Window x:Class="Lab_11.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:Lab_11"
+    mc:Ignorable="d"
+    Title="MainWindow" Height="420" Width="500">
+    <Grid Margin="10">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+            <ColumnDefinition Width="Auto" />
+            <ColumnDefinition Width="*" />
+        </Grid.ColumnDefinitions>
+
+        <Label Content="K" Grid.Row="0" Grid.Column="0" VerticalAlignment="Center" />
+        <TextBox Name="textBoxK" Grid.Row="0" Grid.Column="1" Width="75" Margin="5" />
+
+        <Label Content="N" Grid.Row="1" Grid.Column="0" VerticalAlignment="Center" />
+        <TextBox Name="textBoxN" Grid.Row="1" Grid.Column="1" Width="75" Margin="5" />
+
+        <Button Content="Tasks" Grid.Row="0" Grid.Column="2" Width="75" Margin="5" Click="NewtonSymbolTasks" />
+        <TextBox Name="textBoxTasks" Grid.Row="0" Grid.Column="3" Width="120" Margin="5" />
+
+        <Button Content="Delegates" Grid.Row="1" Grid.Column="2" Width="75" Margin="5" Click="NewtonSymbolDelegates" />
+        <TextBox Name="textBoxDelegates" Grid.Row="1" Grid.Column="3" Width="120" Margin="5" />
+
+        <Button Content="Async/Await" Grid.Row="2" Grid.Column="2" Width="75" Margin="5" Click="NewtonSymbolAsyncAwait" />
+        <TextBox Name="textBoxAsyncAwait" Grid.Row="2" Grid.Column="3" Width="120" Margin="5" />
+
+        <Label Content="Fibonacci" Grid.Row="3" Grid.Column="0" VerticalAlignment="Center" />
+        <TextBox Name="textBoxI" Grid.Row="3" Grid.Column="1" Width="120" Margin="5" />
+        <ProgressBar Name="progressBar" Grid.Row="4" Grid.Column="0" Grid.ColumnSpan="4" Height="10" Margin="5" />
+
+        <Button Content="Calculate" Grid.Row="3" Grid.Column="2"  Width="74" Margin="5" Click="Fibonacci" />
+        <TextBox Name="textBoxFibonacci" Grid.Row="3" Grid.Column="3"  Width="120" Margin="5" />
+
+        <Label Content="Compression" Grid.Row="5" Grid.Column="0" VerticalAlignment="Center" />
+        <Button Content="Compress" Grid.Row="5" Grid.Column="1" Width="100" Margin="5" Click="Compress" />
+        <Button Content="Decompress" Grid.Row="5" Grid.Column="2" Width="100" Margin="5" Click="Decompress" />
+
+        <Label Name="labelError" Content="" Grid.Row="6" Grid.Column="0" Grid.ColumnSpan="4" Foreground="Red" />
+    </Grid>
+</Window>

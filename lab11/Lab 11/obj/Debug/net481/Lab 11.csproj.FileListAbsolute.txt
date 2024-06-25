@@ -1,0 +1,16 @@
+\\Mac\Home\Downloads\Lab 11\Lab 11\bin\Debug\net481\Lab 11.exe.config
+\\Mac\Home\Downloads\Lab 11\Lab 11\bin\Debug\net481\Lab 11.exe
+\\Mac\Home\Downloads\Lab 11\Lab 11\bin\Debug\net481\Lab 11.pdb
+\\Mac\Home\Downloads\Lab 11\Lab 11\obj\Debug\net481\Lab 11.csproj.AssemblyReference.cache
+\\Mac\Home\Downloads\Lab 11\Lab 11\obj\Debug\net481\MainWindow.g.cs
+\\Mac\Home\Downloads\Lab 11\Lab 11\obj\Debug\net481\App.g.cs
+\\Mac\Home\Downloads\Lab 11\Lab 11\obj\Debug\net481\Lab 11_MarkupCompile.cache
+\\Mac\Home\Downloads\Lab 11\Lab 11\obj\Debug\net481\Lab 11_MarkupCompile.lref
+\\Mac\Home\Downloads\Lab 11\Lab 11\obj\Debug\net481\MainWindow.baml
+\\Mac\Home\Downloads\Lab 11\Lab 11\obj\Debug\net481\Lab 11.g.resources
+\\Mac\Home\Downloads\Lab 11\Lab 11\obj\Debug\net481\Lab 11.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Downloads\Lab 11\Lab 11\obj\Debug\net481\Lab 11.AssemblyInfoInputs.cache
+\\Mac\Home\Downloads\Lab 11\Lab 11\obj\Debug\net481\Lab 11.AssemblyInfo.cs
+\\Mac\Home\Downloads\Lab 11\Lab 11\obj\Debug\net481\Lab 11.csproj.CoreCompileInputs.cache
+\\Mac\Home\Downloads\Lab 11\Lab 11\obj\Debug\net481\Lab 11.exe
+\\Mac\Home\Downloads\Lab 11\Lab 11\obj\Debug\net481\Lab 11.pdb
